@@ -18,6 +18,8 @@ body{
     background-color: var(--almost-whir);
 }
 
-.herder-mobile{
-    
+.header-mobile{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
